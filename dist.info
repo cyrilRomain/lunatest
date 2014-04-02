@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "lunatest"
+version = "0.95"
+
+desc = "Lunatest is a unit (randomizable) testing framework (a la QuickCheck)"
+author = "Scott Vokes"
+license = "MIT/X11"
+url = "http://github.com/silentbicycle/lunatest"
+maintainer = "Peter Drahos"
+
+depends = {
+   "lua >= 5.1"
+}
